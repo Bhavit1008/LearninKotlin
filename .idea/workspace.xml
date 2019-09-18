@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85969835-ff26-431e-9eb8-72fff6e00e13" name="Default Changelist" comment="Learning If else decision structure">
-      <change afterPath="$PROJECT_DIR$/src/IfElse.kt" afterDir="false" />
+    <list default="true" id="85969835-ff26-431e-9eb8-72fff6e00e13" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/WhenCase1.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +36,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.IfElse">
+  <component name="RunManager" selected="Kotlin.WhenCase1">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -95,6 +95,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhenCase1" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="MyfirstKotlinPro" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="WhenCase1" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -115,6 +128,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.WhenCase1" />
         <item itemvalue="Kotlin.IfElse" />
         <item itemvalue="Kotlin.Variables" />
         <item itemvalue="Kotlin.HelloKt" />
@@ -132,6 +146,14 @@
       <option name="presentableId" value="Default" />
       <updated>1568704624563</updated>
     </task>
+    <task id="LOCAL-00001" summary="Learning If else decision structure">
+      <created>1568783706656</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568783706656</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
