@@ -21,6 +21,11 @@ class WhenCase1 {
                 }
                 in 7..10  -> println("using range in 7 to 10 cases")
             }
+            var b:Int=read.nextInt()
+            when(b){
+                1..5->println("In between 1 - 5 ")
+                6..10->println("In between 6..10")
+            }
         }
     }
 }
